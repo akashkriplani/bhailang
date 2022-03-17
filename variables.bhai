@@ -1,0 +1,9 @@
+hi bhai
+  bhai ye hai a = 1;
+  bhai ye hai b = 2;
+  bhai ye hai c = 3;
+  a = a + 1;
+  b *= 2;
+  c = a + b;
+  bol bhai a, b, c;
+bye bhai

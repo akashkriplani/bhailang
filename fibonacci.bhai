@@ -1,0 +1,20 @@
+hi bhai
+  bhai ye hai a = 0;
+  bhai ye hai b = 1;
+  bhai ye hai sum = 0;
+  bhai ye hai fibonacciCount = 1;
+
+  jab tak bhai (fibonacciCount < 10) {
+    agar bhai (a == 0 && b == 1) {
+      bol bhai a;
+      bol bhai b;
+    }
+    agar bhai (sum > 0) {
+      bol bhai sum;
+    }
+    sum = a + b;
+    a = b;
+    b = sum;
+    fibonacciCount += 1;
+  }
+bye bhai

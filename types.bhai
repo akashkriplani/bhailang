@@ -1,0 +1,9 @@
+hi bhai
+  bhai ye hai a = 10;
+  bhai ye hai b = "abc";
+  bhai ye hai c = 'c';
+  bhai ye hai d = 'nalla';
+  bhai ye hai e = sahi;
+  bhai ye hai f = galat;
+  bol bhai a, b, c, d, e, f;
+bye bhai
