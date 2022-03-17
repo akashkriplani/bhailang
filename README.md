@@ -1,7 +1,7 @@
-# bhailang
-Fun programming package bhailang
-Just do npm install -g bhailang
+# Bhailang
 
-Execute your code by writing bhailang filename.bhai
+This project was generated with [Bhailang](https://bhailang.js.org/).
 
-Enjoy!!
+## Development server
+
+Run `npm install -g bhailang` to install bhailang globally in your system. Execute your code by writing `bhailang filename.bhai`.
